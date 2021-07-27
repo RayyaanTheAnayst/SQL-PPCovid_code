@@ -425,3 +425,6 @@ SELECT location, date, new_cases
 FROM PortfolioProject..CovidDeaths
 Where location like '%south africa%' or location like '%states%' or location like '%united kingdom%' 
    or location like '%austrailia%' or location like '%india%' or location like '%brazil%'
+   
+   
+   
